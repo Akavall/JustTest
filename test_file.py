@@ -1,6 +1,6 @@
 print 'this is a test 2'
 print 'my line version 1'
 print 'my line 2, very dumb'
-print 'working one...'
-print 'working two...'
+print 'working another...'
+print 'working another...'
 print 'something smart'
