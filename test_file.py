@@ -7,3 +7,4 @@ print 'something smart'
 
 print 'line 1'
 print 'line 2'
+print 'line z'
