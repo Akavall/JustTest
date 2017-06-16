@@ -6,3 +6,4 @@ print 'working two...'
 print 'something smart'
 
 print 'line 1'
+print 'line 2'
