@@ -6,3 +6,4 @@ print 'working two...'
 print 'something smart'
 
 print 'test rebase 1'
+print 'test rebase 2'
