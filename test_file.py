@@ -4,3 +4,7 @@ print 'my line 2, very dumb'
 print 'working one...'
 print 'working two...'
 print 'something smart'
+
+print 'line 1'
+print 'line 2'
+print 'line z'
