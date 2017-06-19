@@ -7,5 +7,3 @@ print 'something smart'
 
 print 'test rebase 1'
 print 'test rebase 2'
-
-print 'wrong line'
