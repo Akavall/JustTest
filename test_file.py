@@ -4,3 +4,5 @@ print 'my line 2, very dumb'
 print 'working one...'
 print 'working two...'
 print 'something smart'
+
+print 'test rebase 1'
