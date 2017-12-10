@@ -1,4 +1,4 @@
-print 'this is a test 2'
+print 'Silly Test'
 print 'my line version 1'
 print 'my line 2, very dumb'
 print 'working silly...'
